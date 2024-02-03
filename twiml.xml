@@ -1,0 +1,6 @@
+<Response>
+    <Dial>
+        <Number><!-- Dial the phone number provided as a query parameter --></Number>
+        <Client><!-- Connect to the Discord voice channel using the channel ID provided as a query parameter --></Client>
+    </Dial>
+</Response>
